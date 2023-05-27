@@ -1,8 +1,7 @@
-# { name } resume
+# 塚田 遼の職務経歴書
 
-## Sample
-
-https://github.com/kawamataryo/resume
+## Data
+[GitHub Pages](https://r-tsukada.github.io/resume/)
 
 ## Features
 
