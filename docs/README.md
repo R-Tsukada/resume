@@ -90,13 +90,31 @@ Google Apps Script（GAS）を活用し、手作業で行われていたタス�
 
 ## 業務外活動
 ### 個人開発
-- [Football Myteam](https://football-myteam.herokuapp.com/)
-  - 欧州 4 大リーグの中で応援しているチームに関する情報を取得することができる
-- [Daily Ease](https://main.d2gggkygq4rfxm.amplifyapp.com/)
-  - 精神状態を定期的にモニタリングできる
+#### [Football Myteam](https://football-myteam.herokuapp.com/)
+欧州 4 大リーグの中で応援しているチームに関する情報を取得することができるwebアプリケーション。
+##### 作成した目的
+- サッカー初心者の方がサッカーの楽しみ方を知れるようにする
+- 応援しているチームの情報に特化したサービス作って、より応援しているチームを好きになれるようにする
+#### 開発環境
+- 言語: Ruby(3.1), JavaScript
+- フレームワーク: Ruby on Rails(6.1.5), Vue.js(3.2.31)
+- データベース: PostgreSQL
+- コンテナ: Docker
+- CI/CD: GitHub Actions
+- サーバー: Heroku
+#### [Daily Ease](https://main.d2gggkygq4rfxm.amplifyapp.com/)(開発途中)
+  精神状態を定期的にモニタリングできるwebアプリケーション。
+#### 作成した目的
+- ストレスを定期的にモニタリングすることで毎日を楽しく過ごせるようにする
+- 職場の同僚に使ってもらい、職場環境を良くする
+#### 開発環境
+- 言語: Typescript
+- フレームワーク: Next.js
+- コンテナ: Docker
+- サーバー: Amplyfy
 
 ### 学術研究
 - 受賞歴
-  - 第 19 回認知神経リハビリテーション学会学術集会 優秀賞（「麻痺手の使用，不使用に関する主観的経験の解明」 https://jsncr.jp/syukai/syukai-19.html
+  - 第 19 回認知神経リハビリテーション学会学術集会 優秀賞（「麻痺手の使用，不使用に関する主観的経験の解明」） https://jsncr.jp/syukai/syukai-19.html
 - 論文執筆
   - 作業療法ジャーナル 53 巻 4 号： 頭部と眼球の協調運動再獲得が頸部痛の改善につながった1症例 https://webview.isho.jp/journal/detail/abs/10.11477/mf.5001201676
